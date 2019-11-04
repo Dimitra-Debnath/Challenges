@@ -39,7 +39,7 @@ class Student extends Person{
         return(avg> 89 ?'O': avg>79 ? 'E' : avg > 69 ? 'A' : avg > 54 ? 'P' :avg > 39 ? 'D' : 'T' );
     }
 }
-
+//class
 class Day12SolutionInheritance {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
